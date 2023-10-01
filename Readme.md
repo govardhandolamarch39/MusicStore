@@ -25,3 +25,5 @@ dotnet build ./MusicStore/MusicStore.csproj
 npm install
 npm run start
 ```
+
+* To get junit format is created
